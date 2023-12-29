@@ -1,5 +1,6 @@
 
 ## 3. Implementation of Half subtractor and Full subtractor circuit using verilog HD
+
 Developed by: Jackson Raj A
 
 RegisterNumber:  23012756
